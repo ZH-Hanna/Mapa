@@ -45,3 +45,5 @@
 	}
 	mymap.on('click', onMapClick);
 </script>
+</body>
+</html>
