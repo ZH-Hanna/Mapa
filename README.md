@@ -1,6 +1,6 @@
 # Map :monocle_face:
 
-Map written by using html code and using the Leaflet library
+Map written by using html code and the Leaflet library
 
 ### You can : 
 
